@@ -104,9 +104,3 @@ The model is evaluated on a held-out test set (the most recent 15% of historical
 
 ---
 
-## ⚖️ License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-**Developed with ❤️ by [Your Name/Handle]**

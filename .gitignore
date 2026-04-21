@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+vwen/
+env/
+.env
+
+# Data & Models
+*.h5
+*.keras
+models/
+scaler.pkl
+
+# Documentation (Specifically requested to ignore)
+implementation_plan.md
+
+# OS
+.DS_Store
+Thumbs.db
